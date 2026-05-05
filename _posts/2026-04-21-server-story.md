@@ -45,5 +45,10 @@ If it's your first time, I recommend starting with a password manager and a goog
 
 ## The Server
 
-My father had an old office cpu, i3-2120 4GB ddr3 ram and that was enough for me to run everything except media streaming(for this, I upgraded ram by adding another 89gb ddr3 stick totalling to 12 gigs, costed ~Rs.2000). Any old laptop/cpu would be perfect, just make sure it gets plenty of ventilation.
+My father had an old office cpu, i3-2120 4GB ddr3 ram and that was enough for me to run everything except media streaming(for this, I upgraded ram by adding another 8gb ddr3 stick totalling to 12 gigs, costed ~Rs.2000). Any old laptop/cpu would be perfect, just make sure it gets plenty of ventilation. 
+First of all, I wiped the whole hard disk and installed Linux in it (no brainer) , specifically debian 13 (trixie) LTS Server edition (No GUI), as it eats WAYY less resources. You can check out this video for installation : [Installing Debian Trixie CLI Edition](https://www.youtube.com/watch?v=FlSbx7jg1WQ). My step after that is to install fastfetch in the machine with `sudo apt install fastfetch` and you'll be greeted with something like this : 
+<figure>
+    <img src="/assets/image2.png" alt="fastfetch of my server">
+      <figcaption>fastfetch in my server</figcaption>
+  </figure>
 
