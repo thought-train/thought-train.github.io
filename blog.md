@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/
+show_rss: true
 ---
 
 A collection of technical posts on reinforcement learning, robotics, and control systems.
